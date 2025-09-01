@@ -28,6 +28,7 @@ A full-stack web application built with **Node.js**, **Express**, **PostgreSQL**
 
 ## 📂 Project Structure
 
+```bash
 project/
 │
 ├── public/ # Static assets (CSS, JS, images)
@@ -41,7 +42,7 @@ project/
 ├── app.js # Main Express server app
 ├── package.json
 └── README.md
-
+```
 
 ---
 
